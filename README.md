@@ -1,7 +1,7 @@
 # SVM_Prediksi_Kelulusan
 Proyek Klasifikasi SVM untuk Prediksi Kelulusan Mahasiswa.
 
-# 🎓 Prediksi Kelulusan Mahasiswa Menggunakan Support Vector Machine (SVM)
+#  Prediksi Kelulusan Mahasiswa Menggunakan Support Vector Machine (SVM)
 
 ## 1. Deskripsi Proyek
 Proyek ini bertujuan untuk membangun model klasifikasi *supervised* menggunakan algoritma **Support Vector Machine (SVM)** untuk memprediksi Status Kelulusan Mahasiswa ('TEPAT' atau 'TERLAMBAT') berdasarkan data riwayat akademik dan demografi.
@@ -24,9 +24,9 @@ Proyek ini bertujuan untuk membangun model klasifikasi *supervised* menggunakan 
 
 | Model | Akurasi Testing | Precision (TEPAT) | F1-Score (TEPAT) |
 | :--- | :--- | :--- | :--- |
-| **SVM Linear** | `Akurasi: 0.8816` | ` 0.85 ` | `  0.87  ` |
-| **SVM RBF Dasar** | `0.8684` | ` 0.87  ` | `0.84  ` |
-| **Model Terbaik (Tuned)** | `0.9342` | `0.94 ` | ` 0.92 ` |
+| **SVM Linear** | `0.9211` | ` 0.93  ` | `  0.90  ` |
+| **SVM RBF Dasar** | `0.8947` | ` 0.93    ` | `0.87   ` |
+| **Model Terbaik (Tuned)** | `0.9211` | `0.88  ` | ` 0.90   ` |
 
 **Kesimpulan:** Model **[NAMA MODEL TERBAIK]** dengan Akurasi **[AKURASI TERBAIK]%** adalah yang terbaik.
 
