@@ -1,4 +1,4 @@
-# SVM_Prediksi_Kelulusan
+# SVM_Prediksi_Kelulusan Mahasiswa
 Proyek Klasifikasi SVM untuk Prediksi Kelulusan Mahasiswa.
 
 #  Prediksi Kelulusan Mahasiswa Menggunakan Support Vector Machine (SVM)
